@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Big fun of data analysis, data visualization, programming,
+mathematical statistics, big collider detectors and experiments, data taking, 
+scientific publishing
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I used to do particle physics at CERN. Now I am getting more and more curious 
+about the ongoing Industrial Revolution and desperately trying to get prepared
+for this...
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Igor Katkov](mailto:igor.i.katkov@gmail.com)
