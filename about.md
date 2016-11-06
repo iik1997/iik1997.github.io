@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Big fun of data analysis, data visualization, programming,
-mathematical statistics, big collider detectors and experiments, data taking, 
+mathematical statistics, large collider detectors and experiments, data taking, 
 scientific publishing
 
 ### More Information
