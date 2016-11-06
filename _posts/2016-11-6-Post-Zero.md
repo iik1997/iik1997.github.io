@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 1st update
+title: Under initial construction 
 ---
 
-![Under construction]({{ site.baseurl }}/images/404.jpg)
+![Under initial construction]({{ site.baseurl }}/images/404.jpg)
