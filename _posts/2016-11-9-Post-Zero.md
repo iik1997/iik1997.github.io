@@ -25,16 +25,16 @@ Statistical Learning with Applications in R (aka ISL),
 Springer, 2013 (Corrected at 6th printing 2015)
 * Trevor Hastie, Robert Tibshirani, Jerome Friedman (UStanford),
 The Elements of
-Statistical Learning
+Statistical Learning:
 Data Mining, Inference, and Prediction
 (aka ESL), Springer, 2010 (2nd edition)
 * Kevin P. Murphy (Google), Machine Learning: A Probabilistic Perspective,
 MIT, 2012
 * Daphne Koller (UStanford, Coursera founder) and Nir Friedman (UJerusalem), 
-Probabilistic Graphical Models Principles and Techniques,
+Probabilistic Graphical Models: Principles and Techniques,
 MIT, 2009
 * Stuart Russell (UCBerkeley) and Peter Norvig (Director of Research at Google), 
-Artificial Itelligence A Modern Approach, 
+Artificial Itelligence: A Modern Approach, 
 Pearson, 2010
 
 For people thinking about getting a certificate this may be interesting (the book
@@ -49,7 +49,8 @@ And besides all the masterpieces, a book I like in particular:
 MIT, 2010 (2nd edition) 
 
 Not only people from Russia tend to occupy the top of the Kaggle rating,
-theoretical contributions of the old Sovient school are well appreciated
-* Bernhard Schoelkopf et al (Eds.), Empirical Inference
+theoretical contributions of the old Sovient school are also well appreciated:
+
+* Bernhard Schoelkopf et al (Eds.), Empirical Inference:
 Festschrift in Honor of Vladimir N. Vapnik, Springer, 2013
 
