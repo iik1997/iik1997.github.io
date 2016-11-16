@@ -37,7 +37,8 @@ MIT, 2009
 Artificial Itelligence A Modern Approach, 
 Pearson, 2010
 
-For people thinking about getting a certificate this may be interesting:
+For people thinking about getting a certificate this may be interesting (the book
+includes also chapters on SQL):
 
 * EMC Education Services, Data Science & Big Data Analytics: Discovering, Analyzing, 
 Visualizing and Presenting Data, Wiley, 2015
@@ -46,3 +47,9 @@ And besides all the masterpieces, a book I like in particular:
 
 * Ethem Alpaydın (Istanbul), Introduction to Machine Learning,
 MIT, 2010 (2nd edition) 
+
+Not only people from Russia tend to occupy the top of the Kaggle rating,
+theoretical contributions of the old Sovient school are well appreciated
+* Bernhard Schoelkopf et al (Eds.), Empirical Inference
+Festschrift in Honor of Vladimir N. Vapnik, Springer, 2013
+
