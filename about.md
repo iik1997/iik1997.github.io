@@ -16,10 +16,10 @@ into our every-day lives.
 Have you watched anything about 'Industry 4.0', or ' ongoing Industrial Revolution',
 even on your favorite local TV channel already? Do we take all this seriously?
 It can be considered just as unnecessary hype, but many industrial giants
-promise a real breakthrough in the field of Aritficial intelligence very
+promise a real breakthrough in the field of artificial intelligence very
 soon. Data science, knowledge mining, machine learning, whatever you call
 it, is developing very rapidly. On one hand it is not easy to catch up, but
-on the other Cloud services and high quality software frameworks 
+on the other, Cloud services and high quality software frameworks 
 are available to many already today...
 
 ### Contact me
