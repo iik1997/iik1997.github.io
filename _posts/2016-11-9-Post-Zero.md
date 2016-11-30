@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ML Literature
+title: ML Literature / 2016-11-09
 ---
 
 I have visited a machine learning 
@@ -8,7 +8,7 @@ I have visited a machine learning
 at Heidelberg Uni a couple of days ago.
 There was an interesting and revealing presentation on 'sentiment analysis' 
 using different Neural Network architectures.
-At some point we ended up disucssing 'what to read?'
+At some point we found ourselves discussing 'what to read?'
 to learn the fundamentals behind
 the Neural Nets.
 
@@ -48,8 +48,8 @@ And besides all the masterpieces, a book I like in particular:
 * Ethem Alpaydın (Istanbul), Introduction to Machine Learning,
 MIT, 2010 (2nd edition) 
 
-Not only people from Russia tend to occupy the top of the Kaggle rating,
-theoretical contributions of the old Sovient school are also well appreciated:
+Not only young guys from Russia tend to occupy the top of the Kaggle rating,
+theoretical contributions of the older school are also well appreciated:
 
 * Bernhard Schoelkopf et al (Eds.), Empirical Inference:
 Festschrift in Honor of Vladimir N. Vapnik, Springer, 2013
